@@ -1,4 +1,2 @@
-la plantas
-los pinos
-las manzanas
+arbol
 
